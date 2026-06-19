@@ -8,6 +8,7 @@
 ## Ссылки
 
 * [Презентация проекта](https://docs.google.com/presentation/d/1vdICbjQ_nA2VWHIZ0_t3d4hMd4S5fuSFiXsIHD_5WIY/edit?usp=sharing)
+* [Сайт проекта](index.html)
 
 ## О проекте
 
